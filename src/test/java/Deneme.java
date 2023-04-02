@@ -5,6 +5,17 @@ public class Deneme {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
     //bu benim satirim. Sefa...
 
     //DEneme1-2
@@ -25,6 +36,10 @@ public class Deneme {
 
 
 
+
+
+
+    //mirhan
 
 
 
