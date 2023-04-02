@@ -10,6 +10,9 @@ public class Deneme {
         int b=24;
         System.out.println(a+b);
 
+        //osman yazmayı deniyor...
+
+
 
 
     }
