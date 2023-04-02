@@ -2,6 +2,11 @@ public class Deneme {
     // Hello world
     // Hello world....
 
+
+
+
+    //bu benim satirim. Sefa...
+
     //DEneme1-2
     //Ali Hoca Cansın,branch ı unutma
 
@@ -17,6 +22,7 @@ public class Deneme {
 
 
     }
+
 
 
 
